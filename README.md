@@ -48,7 +48,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/arnobelium/arnobelium/output/snake.svg" alt="Snake animation" />
-
-###
