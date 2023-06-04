@@ -5,12 +5,6 @@
 ###
 
 <div align="center">
-  <img height="280" src="https://tenor.com/bWpTy.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="arnobelium.x@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -55,24 +49,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/arnobelium/arnobelium/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=arnobelium" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/2knc6u51b8niqgczb0ltepwbp">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
