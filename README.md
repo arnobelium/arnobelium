@@ -94,9 +94,12 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arnobelium&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arnobelium&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arnobelium&theme=merko&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arnobelium&theme=merko&hide_border=false" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=arnobelium&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
