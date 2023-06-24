@@ -89,8 +89,6 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-[![An image of @arnobelium's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arnobelium)](https://holopin.io/@arnobelium)
   
 ## Github Stats  
 <div align="center">
@@ -98,6 +96,8 @@
   <img src="https://streak-stats.demolab.com?user=arnobelium&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnobelium&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+[![An image of @arnobelium's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arnobelium)](https://holopin.io/@arnobelium)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=arnobelium&&style=flat-square" align="center" />
