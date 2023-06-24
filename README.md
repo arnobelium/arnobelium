@@ -89,6 +89,8 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+[![An image of @arnobelium's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arnobelium)](https://holopin.io/@arnobelium)
   
 ## Github Stats  
 <div align="center">
