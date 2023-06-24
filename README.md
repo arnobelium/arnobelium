@@ -97,6 +97,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnobelium&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+## Badges
 [![An image of @arnobelium's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arnobelium)](https://holopin.io/@arnobelium)
 
 <div align="center">
